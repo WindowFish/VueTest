@@ -1,0 +1,12 @@
+
+// 到时候就导入到commmon.scss文件中直接 然后commons.scss文件就导入到app.vue中
+.btn{
+    width: 400px;
+    height: 100%;
+    background-color: rgb(112, 218, 183);
+    color: rgb(255, 0, 0);
+    margin-left: 40px;
+    border: 2px solid gray;
+    box-sizing: border-box;
+    border-radius: 10%;
+}

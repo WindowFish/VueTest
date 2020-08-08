@@ -1,0 +1,22 @@
+// scss文件导入scss文件
+@import "./_btn.scss";
+
+@mixin allP($backgroundColor) {
+          background-color:$backgroundColor;
+          width: 200px;
+          height: 100%;
+          margin-left: 100px;
+          color:rgb(245, 20, 31);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+}
+.n-container{
+       color: seagreen;
+       margin-left: 10px;
+}
+
+
+
+
+
